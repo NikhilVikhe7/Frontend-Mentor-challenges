@@ -85,6 +85,10 @@ body {
   padding: 15px;
   border-radius: 10px;
 }
+.add-to-cart-btn:hover {
+  background-color: hsl(158, 65%, 33%);
+  transform: scale(1.02);
+}
 .icon {
   margin-right: 10px;
 }
